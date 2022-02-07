@@ -1,8 +1,8 @@
 exports.paymentstore = (owner) => {
 return `*PAYMENT STORE*
-Dana : 0881-7864-684
-Ovo : 0823-1646-4080
-Pulsa : 0823-1646-4080
+Dana : 0857-9242-9140
+Ovo : -
+Pulsa : 0857-9242-9140
 
 Note :
 Jika Sudah Transfer Wajib Kirim
@@ -107,7 +107,7 @@ return `*DROP DATA DIAMOND ML*
 • LEGAL 100%
 • PROSES 1-5 MENIT
 
-*86 💎 Rp 25.000*
+*86 💎 Rp 20.000*
 *172 💎 Rp 39.500*
 *257 💎 Rp 58.000*
 *344 💎 Rp 78.000*
@@ -238,9 +238,9 @@ return`*HAI KAK MAU BENERAN DONASI ATAU TIDAK KAK*
 *SEMOGA TIDAK DILIHAT DOANG*
 
 *PAYMENT BOT*
-DANA: (0857-8900-4732)
-OVO: (0822-7991-5237)
-PULSA: (0822-7991-5237)
+DANA: (0857-9242-9140)
+OVO: (-)
+PULSA: (0857-9242-9140)
 
 *TERIMA KASIH KAK*
 *LOVE YOU😋*`
